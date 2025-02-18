@@ -2,6 +2,7 @@ baseURL = 'https://based.cooking/'
 languageCode = 'en-us'
 title = 'Based Cooking'
 theme = 'lugo'
+CanonifyURLs = true
 
 [params]
   favicon = "/favicon.svg"
