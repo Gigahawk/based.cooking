@@ -10,7 +10,7 @@ author: gigahawk
 - 1 lb persian/english cucumber
 - 1/2 tbsp salt
 - 2 tbsp light soy sauce
-- 1 tsp rice vinegar
+- 1 tbsp rice vinegar
 - 1/2 tbsp sugar
 - minced garlic
 - 1/2 tbsp chilli oil
